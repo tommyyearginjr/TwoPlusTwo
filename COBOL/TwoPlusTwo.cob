@@ -6,4 +6,4 @@ PROCEDURE DIVISION.
 
 	DISPLAY 'Two plus two equals four.'.
 
-	STOP RUN
+	STOP RUN.
