@@ -1,0 +1,9 @@
+IDENTIFICATION DIVISION.
+
+PROGRAM-ID. TwoPlusTwo-COBOL.
+
+PROCEDURE DIVISION.
+
+	DISPLAY 'Two plus two equals four.'.
+
+	STOP RUN
