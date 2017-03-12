@@ -1,5 +1,5 @@
 # TwoPlusTwo
-"What is two plus two?"
+What is two plus two?
 
 Programming project examples using variety of languages.
 
